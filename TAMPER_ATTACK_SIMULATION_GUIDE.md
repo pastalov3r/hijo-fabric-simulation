@@ -118,7 +118,7 @@ docker logs --tail 20 couchdb.agri
 ## Scenario 2: On-Chain Rogue Insider / Policy Bypass Attack
 
 ### 1. Attack Concept
-A rogue internal employee (`EMP-AGRI-007`) at **Hijo Agriculture** attempts to single-handedly create a fraudulent batch **`BATCH-ROGUE-999`** (`"Forbidden Farm"`, `9999.0` kg weight) by sending a proposal signed **ONLY by Agri Peer** (`peer0.agri.hijo.com`), omitting required endorsements from **Logistics** and **Port**.
+A rogue internal employee (`EMP-AGRI-007`) at **Hijo Agriculture** attempts to single-handedly create a fraudulent batch **`BATCH-ROGUE-999`** (`"Forbidden Farm"`, `9999.0` kg weight) by sending a proposal signed **ONLY by Agri Peer** (`peer0.agri.hijo.com`), omitting required endorsements from **Logistics** and **Port**..
 
 ---
 
